@@ -1,5 +1,8 @@
 {
   "countdown": {
     "component": "Countdown"
+  },
+  "whatsapp": {
+    "component": "Whatsapp"
   }
 }
